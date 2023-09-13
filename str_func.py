@@ -1,6 +1,6 @@
 
 def lineupper():
-    """Функция для перевода текста заглавные буквы"""
+    """Как заказывали docstring"""
     line = input()
     print(line.upper())
 
