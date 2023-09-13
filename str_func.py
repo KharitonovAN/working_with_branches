@@ -9,3 +9,7 @@ def wordtitle():
     """Функция для заглавных букв слов"""
     line = input()
     print(line.title())
+
+
+def bolbes():
+    return None
