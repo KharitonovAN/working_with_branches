@@ -12,4 +12,5 @@ def wordtitle():
 
 
 def bolbes():
+    """попытка создать конфликт"""
     return None
