@@ -1,6 +1,6 @@
 
 def lineupper():
-    """Как заказывали docstring"""
+    """Еще раз - Как заказывали docstring"""
     line = input()
     print(line.upper())
 
