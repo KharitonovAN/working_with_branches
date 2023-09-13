@@ -6,6 +6,6 @@ def lineupper():
 
 
 def wordtitle():
-    """Как заказывали docstring"""
+    """Функция для заглавных букв слов"""
     line = input()
     print(line.title())
